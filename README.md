@@ -4,8 +4,8 @@
 ## 📚: Languages
 - 🧰C++ (Intermediate knowledge, 2-3 years of experience, actively improving)
 - 🌑Lua (Advanced knowledge, 5+ years of experience)
-### About Me:
-> I love software engineering, I am very passionate about programming software, emphasis on 3D software, mathematics & physics.
+### ❓: About Me
+I love software engineering, I am very passionate about programming software, emphasis on 3D software, mathematics & physics.
 <!--
 **Pyritium/Pyritium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
