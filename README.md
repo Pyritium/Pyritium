@@ -4,7 +4,7 @@ Thanks for visiting my GitHub profile! Please take a moment to read my README to
 
 ## 🔰 Experiences
 
-- **Self-Taught**: My journey in software engineering has been largely self-guided. I have taken the initiative to explore various programming languages, technologies, and concepts on my own, which has allowed me to develop a well-rounded skill set.
+- **Self-Taught**: In software engineering, I have mostly followed my own path. By taking the initiative to research different programming languages, tools, and ideas on my own, I believe that I've been able to expand my skill set and become more versatile.
 
 ## 📚 Languages
 
