@@ -8,7 +8,7 @@ Thanks for visiting my GitHub profile! Please take a moment to read my README to
 
 ## 📚 Languages
 
-### 🧰 C++ (2+ years of experience)
+### 🧰 C++
 
 - **1 year of experience**: I spent a year learning the subtleties underlying C++, polishing my skills through real projects and coding difficulties, mainly all self projects.
 
