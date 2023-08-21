@@ -1,9 +1,9 @@
 # Aspiring Software Engineer
 ## 🔰: Experiences
-* Self-Taught
+- Self-Taught
 ## 📚: Languages
-*🧰C++ (Intermediate knowledge, 2-3 years of experience, actively improving)
-*🌑Lua (Advanced knowledge, 5+ years of experience)
+-🧰C++ (Intermediate knowledge, 2-3 years of experience, actively improving)
+-🌑Lua (Advanced knowledge, 5+ years of experience)
 ### ❔: Emphasis (and very passionate) on 3D software, mathematics & physics
 
 <!--
