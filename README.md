@@ -22,6 +22,8 @@ Thanks for visiting my GitHub profile! Please take a moment to read my README to
 
 ## ❓ About Me
 
-I have a sincere passion for software engineering and a strong ambition to push the envelope of what is feasible. I am not afraid to admit I am just starting out, and barely grasping the surface of what software engineering is, but I have ever since started enjoyed it thoroughly! I get a lot of joy out of using code to solve challenging issues and realize concepts. My special passion for 3D software, math, and physics keeps me heavily interested, determined & inspired to keep learning and growing.
+I have a sincere passion for software engineering and a strong ambition to push the envelope of what is feasible. I am not afraid to admit I am just starting out, and barely grasping the surface of what software engineering is, but I have ever since started enjoyed it thoroughly! I get a lot of joy out of using code to solve challenging issues and realize concepts. 
+
+My special passion for 3D software, math, and physics keeps me heavily interested, determined & inspired to keep learning and growing.
 
 Feel free to explore my (although scarce) repositories to see the projects and solutions I've worked on. Please contact me if you are interested in anything that I'm up to, or want to just talk about software engineering.
