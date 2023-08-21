@@ -10,13 +10,13 @@ Welcome to my GitHub profile! I'm an aspiring software engineer with a strong pa
 
 ### 🧰 C++ (2+ years of experience)
 
-- **1 year of experience**: I've dedicated a year to mastering the intricacies of C++, honing my skills through practical projects and coding challenges.
+- **1 year of experience**: I spent a year learning the subtleties underlying C++, polishing my skills through real projects and coding difficulties, mainly all self projects.
 
-- **Intermediate**: My grasp of C++ allows me to write efficient and optimized code. I'm comfortable with various features of the language and am always eager to dive deeper.
+- **Intermediate**: My grasp of C++ allows me to write efficient and optimized code. I'm comfortable with various features of the language and am always eager to dive deeper, and to learn more.
 
 ### 🌑 Lua
 
-- **5 years of experience**: Lua has been my companion for half a decade. I've utilized it extensively in different projects, ranging from game development to scripting.
+- **5 years of experience**: Lua has something I've sunk a lot of time into. I've used it a lot in a variety of tasks, from game development to scripting.
 
 - **Advanced / Expert**: With years of hands-on experience, I've become adept at harnessing the power of Lua to create dynamic and flexible solutions. From game mods to complex automation scripts, I'm well-versed in the language.
 
