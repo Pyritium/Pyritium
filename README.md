@@ -1,5 +1,5 @@
-# Hi! I'm Pyritium
-Aspiring software engineer! Emphasis (and very passionate) on 3D software, mathematics & physics
+# 👋 Computer science is the best!
+> Aspiring software engineer! Emphasis (and very passionate) on 3D software, mathematics & physics
 
 <!--
 **Pyritium/Pyritium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
