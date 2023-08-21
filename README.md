@@ -1,6 +1,6 @@
-# Aspiring Software Engineer
+# 🌱 Aspiring Software Engineer
 
-Welcome to my GitHub profile! I'm an aspiring software engineer with a strong passion for programming and creating innovative solutions. My focus lies in the realm of 3D software, mathematics, and physics, where I strive to blend creativity and technical expertise.
+Thanks for visiting my GitHub profile! Please take a moment to read my README to find out a little bit about myself.
 
 ## 🔰 Experiences
 
