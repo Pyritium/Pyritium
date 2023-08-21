@@ -2,8 +2,12 @@
 ## 🔰: Experiences
 - Self-Taught
 ## 📚: Languages
-- 🧰C++ (Intermediate knowledge, 2-3 years of experience, actively improving)
-- 🌑Lua (Advanced knowledge, 5+ years of experience)
+- 🧰C++ (2+ years of experience)
+  > 1 year of experience
+  > Intermediate
+- 🌑Lua
+  > 5 years of experience
+  > Advanced / Expert
 ### ❓: About Me
 I love software engineering, I am very passionate about programming software, emphasis on 3D software, mathematics & physics.
 <!--
