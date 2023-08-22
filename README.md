@@ -18,7 +18,7 @@ Thanks for visiting my GitHub profile! Please take a moment to read my README to
 
 - **5 years of experience**: Lua has something I've sunk a lot of time into. I've used it a lot in a variety of tasks, from game development to scripting.
 
-- **Advanced / Expert**: With years of hands-on experience, I've become adept at harnessing the power of Lua to create dynamic and flexible solutions. From game mods to complex automation scripts, I'm well-versed in the language.
+- **Advanced**: With years of hands-on experience, I've become adept at harnessing the power of Lua to create dynamic and flexible solutions. From game mods to complex automation scripts, I'm well-versed in the language.
 
 ## ❓ About Me
 
