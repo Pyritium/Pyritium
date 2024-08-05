@@ -10,9 +10,9 @@ Thanks for visiting my GitHub profile! Please take a moment to read my README to
 
 ### 🧰 C++
 
-- **1 year of experience**: I spent a year learning the subtleties underlying C++, polishing my skills through real projects and coding difficulties, mainly all self projects.
+- **3 year of experience**: I spent a year learning the subtleties underlying C++, polishing my skills through real projects and coding difficulties, mainly all self projects.
 
-- **Intermediate**: My grasp of C++ allows me to write efficient and optimized code. I'm comfortable with various features of the language and am always eager to dive deeper, and to learn more.
+- **Advanced**: My grasp of C++ allows me to write efficient and optimized code. I'm comfortable with various features of the language and am always eager to dive deeper, and to learn more.
 
 ### 🌑 Lua
 
