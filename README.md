@@ -1,5 +1,5 @@
-Hi, I’m Joshua, a computer engineer passionate about pushing boundaries in software engineering.
+Hey there, I'm Joshua! A computer engineer (albeit pretty inexperienced.)
 
-I’ve loved programming for as long as I can remember, and I'm particularly drawn to the rendering side of programming, such as game engines, rasterization engines, geometry kernels, etc.
+I've loved programming ever since I was a teenager, and I have a particular captivation to the rendering aspect of programming, which are not limited to: game engines, geometric kernels/drivers, rasterization engines, really any of it.
 
-Feel free to check out my sparse repositories to see my projects. If you’re interested in collaborating or discussing software engineering, don’t hesitate to reach out!
+If you want to collaborate, feel free to reach out!
