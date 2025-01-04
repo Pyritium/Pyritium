@@ -9,5 +9,5 @@ If you want to collaborate, feel free to reach out!
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pyritium&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyritium&layout=compact&theme=radical&hide=objective-c,c&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pyritium&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyritium&layout=compact&theme=tokyonight&hide=objective-c,c&langs_count=8)
