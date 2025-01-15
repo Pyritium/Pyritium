@@ -2,7 +2,7 @@
 
 I'm Joshua! A very ambitious computer engineer *(albeit pretty inexperienced...)*! 
 
-I have a particular captivation to low level programming, including graphics, and my hobbies mainly consist of working on, thinking about interacting with, making my own, or taking apart: games (within game engines), game engines, geometric kernels/drivers, & rasterization engines!
+I have a particular captivation to low level programming, including graphics, and my hobbies mainly consist of working on, thinking about interacting with, making my own, or taking apart: games (within game engines), game engines, geometric kernels/drivers, & rendering engines!
 
 If you want to collaborate, feel free to reach out!
 
