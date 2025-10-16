@@ -1,6 +1,6 @@
-# Hey there! 
+# Welcome to my Profile
 
-I'm Joshua! A very ambitious computer engineer.
+I'm Joshua— a very passionate & self taught computer engineer.
 
 I have a particular captivation to game engine systems & how they work! I love taking apart existing ones & studying them, and working on systems of my own to hopefully one day create my own game engine! I also have a small interest in computer graphics!
 
