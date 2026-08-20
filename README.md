@@ -6,7 +6,7 @@ Though I am still very much learning to this day, I have a particular captivatio
 
 I also have a small interest in computer graphics!
 
-You can contact me @tunbergjoshua@gmail.com for any inquiries.
+You can contact me [@tunbergjoshua@gmail.com](tunbergjoshua@gmail.com) for any inquiries.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pyritium&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyritium&layout=compact&theme=tokyonight&hide=objective-c,c&langs_count=8)
